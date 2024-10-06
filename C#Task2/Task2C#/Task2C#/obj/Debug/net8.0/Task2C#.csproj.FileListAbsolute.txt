@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\bin\Debug\net8.0\Task2C#.exe
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\bin\Debug\net8.0\Task2C#.deps.json
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\bin\Debug\net8.0\Task2C#.runtimeconfig.json
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\bin\Debug\net8.0\Task2C#.dll
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\bin\Debug\net8.0\Task2C#.pdb
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.dll
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\refint\Task2C#.dll
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.pdb
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\Task2C#.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Orange-C#\Task1\C#Task2\Task2C#\Task2C#\obj\Debug\net8.0\ref\Task2C#.dll
