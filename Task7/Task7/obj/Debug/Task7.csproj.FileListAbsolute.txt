@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\bin\Debug\Task7.exe.config
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\bin\Debug\Task7.exe
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\bin\Debug\Task7.pdb
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\obj\Debug\Task7.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\obj\Debug\Task7.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\obj\Debug\Task7.exe
+C:\Users\LENOVO\Documents\Orange-C#\Task3,4,5,6,7\Task7\Task7\Task7\obj\Debug\Task7.pdb
